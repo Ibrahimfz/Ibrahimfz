@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ibrahimfz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ibrahim zahrani
+- 👀 I’m interested in flutter and js
+- 🌱 I’m currently learning servicenow
+- 💞️ I’m looking to collaborate on flutter and digital solutions for business
+- 📫 How to reach me / ibrahim_zahrani@outlook.com
 
 <!---
 Ibrahimfz/Ibrahimfz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
